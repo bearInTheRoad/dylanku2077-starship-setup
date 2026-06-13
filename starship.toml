@@ -11,6 +11,7 @@ $git_branch\
 $git_state\
 $aws\
 $jobs\
+$battery\
 $cmd_duration\
 $localip\
 $line_break\
@@ -27,7 +28,7 @@ disabled = false
 disabled = false
 format = ' [$localipv4](bold magenta) '
 
-[batter]
+[battery]
 full_symbol = '🔋 '
 charging_symbol = '⚡️ '
 discharging_symbol = '💀 '
